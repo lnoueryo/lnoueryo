@@ -1,7 +1,7 @@
 ## languages
 <div style="display: flex;flex-wrap: wrap">
     <div style="display: flex;align-items: center;margin-right: 10px;">
-        <img style="max-width: 18px;margin-right: 5px;" src="https://lnoueryo.jounetsism.biz/icons/html.png">
+        <img width="18px" style="max-width: 18px;margin-right: 5px;" src="https://lnoueryo.jounetsism.biz/icons/html.png">
         <span style="letter-spacing: .1em;line-height: 2.3;font-family: proxima-nova,sans-serif;font-weight: bold">HTML</span>
     </div>
     <div style="display: flex;align-items: center;margin-right: 10px;">
