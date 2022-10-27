@@ -1,4 +1,5 @@
-<iframe src="https://lnoueryo.jounetsism.biz/" style="width: 100%;height:100%"></iframe>
+# languages
+<img src="https://lnoueryo.jounetsism.biz/icons/html.png">
 <!--
 **lnoueryo/lnoueryo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
