@@ -5,7 +5,7 @@
         <span style="letter-spacing: .1em;line-height: 2.3;font-family: proxima-nova,sans-serif;font-weight: bold">HTML</span>
     </div>
     <div style="display: flex;align-items: center;margin-right: 10px;">
-        <div style="width: 18px;height: 18px;margin-right: 5px;background-image: url(https://lnoueryo.jounetsism.biz/icons/html.png)" src="https://lnoueryo.jounetsism.biz/icons/html.png">
+        <div style="width: 18px;height: 18px;margin-right: 5px;background-image: url(https://lnoueryo.jounetsism.biz/icons/html.png)"></div>
         <span style="letter-spacing: .1em;line-height: 2.3;font-family: proxima-nova,sans-serif;font-weight: bold">HTML</span>
     </div>
     <div style="display: flex;margin-right: 10px;">
