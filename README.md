@@ -1,36 +1,36 @@
 ## languages
-<div class="chips">
-    <div class="chip">
-        <img src="https://lnoueryo.jounetsism.biz/icons/html.png">
-        <span class="para">HTML</span>
+<div style="display: flex;flex-wrap: wrap">
+    <div style="display: flex;align-items: center;margin-right: 10px;">
+        <img style="max-width: 18px;margin-right: 5px;" src="https://lnoueryo.jounetsism.biz/icons/html.png">
+        <span style="letter-spacing: .1em;line-height: 2.3;font-family: proxima-nova,sans-serif;font-weight: bold">HTML</span>
     </div>
-    <div class="chip">
-        <img src="https://lnoueryo.jounetsism.biz/icons/css.png">
-        <span class="para">CSS</span>
+    <div style="display: flex;align-items: center;margin-right: 10px;">
+        <img style="max-width: 18px;margin-right: 5px;" src="https://lnoueryo.jounetsism.biz/icons/css.png">
+        <span style="letter-spacing: .1em;line-height: 2.3;font-family: proxima-nova,sans-serif;font-weight: bold">CSS</span>
     </div>
-    <div class="chip">
-        <img src="https://lnoueryo.jounetsism.biz/icons/javascript.png">
-        <span class="para">JavaScript</span>
+    <div style="display: flex;align-items: center;margin-right: 10px;">
+        <img style="max-width: 18px;margin-right: 5px;" src="https://lnoueryo.jounetsism.biz/icons/javascript.png">
+        <span style="letter-spacing: .1em;line-height: 2.3;font-family: proxima-nova,sans-serif;font-weight: bold">JavaScript</span>
     </div>
-    <div class="chip">
-        <img src="https://lnoueryo.jounetsism.biz/icons/typescript.png">
-        <span class="para">TypeScript</span>
+    <div style="display: flex;align-items: center;margin-right: 10px;">
+        <img style="max-width: 18px;margin-right: 5px;" src="https://lnoueryo.jounetsism.biz/icons/typescript.png">
+        <span style="letter-spacing: .1em;line-height: 2.3;font-family: proxima-nova,sans-serif;font-weight: bold">TypeScript</span>
     </div>
-    <div class="chip">
-        <img src="https://lnoueryo.jounetsism.biz/icons/php.png">
-        <span class="para">PHP</span>
+    <div style="display: flex;align-items: center;margin-right: 10px;">
+        <img style="max-width: 18px;margin-right: 5px;" src="https://lnoueryo.jounetsism.biz/icons/php.png">
+        <span style="letter-spacing: .1em;line-height: 2.3;font-family: proxima-nova,sans-serif;font-weight: bold">PHP</span>
     </div>
-    <div class="chip">
-        <img src="https://lnoueryo.jounetsism.biz/icons/python.png">
-        <span class="para">Python</span>
+    <div style="display: flex;align-items: center;margin-right: 10px;">
+        <img style="max-width: 18px;margin-right: 5px;" src="https://lnoueryo.jounetsism.biz/icons/python.png">
+        <span style="letter-spacing: .1em;line-height: 2.3;font-family: proxima-nova,sans-serif;font-weight: bold">Python</span>
     </div>
-    <div class="chip">
-        <img src="https://lnoueryo.jounetsism.biz/icons/go.png">
-        <span class="para">Go</span>
+    <div style="display: flex;align-items: center;margin-right: 10px;">
+        <img style="max-width: 18px;margin-right: 5px;" src="https://lnoueryo.jounetsism.biz/icons/go.png">
+        <span style="letter-spacing: .1em;line-height: 2.3;font-family: proxima-nova,sans-serif;font-weight: bold">Go</span>
     </div>
-    <div class="chip">
-        <img src="https://lnoueryo.jounetsism.biz/icons/node.js.png">
-        <span class="para">Node.js</span>
+    <div style="display: flex;align-items: center;margin-right: 10px;">
+        <img style="max-width: 18px;margin-right: 5px;" src="https://lnoueryo.jounetsism.biz/icons/node.js.png">
+        <span style="letter-spacing: .1em;line-height: 2.3;font-family: proxima-nova,sans-serif;font-weight: bold">Node.js</span>
     </div>
 </div>
 <!--
@@ -66,7 +66,7 @@ Here are some ideas to get you started:
     margin-right: 10px;
 }
 .chip img {
-    max-width: 18px;
+    
     margin-right: 5px;
 }
 </style>
