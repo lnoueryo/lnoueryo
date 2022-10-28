@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm RIO</h1>
+<h1 align="center">Hi, I'm RIO👋</h1>
 <h3 align="center">A backend developer from Japan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lnoueryo&label=Profile%20views&color=0e75b6&style=flat" alt="lnoueryo" /> </p>
